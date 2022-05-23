@@ -13,6 +13,7 @@ const Mainpage = () => {
                 <img src={mainphoto} alt=""/>
             </div>
         </div>
+       
     </div>
     
   )

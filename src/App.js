@@ -14,11 +14,17 @@ function App() {
     <div className="App">
       <Navbar/>
       <Mainpage/>
+      <div class="line"></div>
       <About/>
+      <div class="line"></div>
       <Education/>
+      <div class="line"></div>
       <Experience/>
+      <div class="line"></div>
       <Project/>
+      <div class="line"></div>
       <Skill/>
+      <div class="line"></div>
       <Contact/>
       
     </div>
